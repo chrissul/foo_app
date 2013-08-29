@@ -7,7 +7,7 @@ gem 'rails', '4.0.0'
 #gem 'sqlite3'
 
 gem 'pg'
-gem 'sexy_pg_constraints', :git => 'git://github.com/dnd/sexy_pg_constraints.git', :branch => 'rails3'
+#gem 'sexy_pg_constraints', :git => 'git://github.com/dnd/sexy_pg_constraints.git', :branch => 'rails3'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
